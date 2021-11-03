@@ -11,5 +11,5 @@ recyclerView.setLayoutManager(staggeredGridLayoutManager);
 ---
 
 ```
-Copyright 2020 M. Fadli Zein
+Copyright 2021 M. Fadli Zein
 ```
