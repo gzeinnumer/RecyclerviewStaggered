@@ -5,4 +5,4 @@ StaggeredGridLayoutManager staggeredGridLayoutManager = new StaggeredGridLayoutM
 recyclerView.setLayoutManager(staggeredGridLayoutManager);
 ```
 
-![]()
+![](https://github.com/gzeinnumer/RecyclerviewStaggered/blob/master/preview/preview_1.jpg)
