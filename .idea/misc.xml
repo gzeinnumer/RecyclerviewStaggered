@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/VIDEO/PEMOGRAMANMOBILE/RecyclerviewStaggered/app/src/main/res/drawable/item_background.xml" value="0.2833333333333333" />
+        <entry key="..\:/VIDEO/PEMOGRAMANMOBILE/RecyclerviewStaggered/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/VIDEO/PEMOGRAMANMOBILE/RecyclerviewStaggered/app/src/main/res/layout/list_item.xml" value="0.38645833333333335" />
+        <entry key="..\:/VIDEO/PEMOGRAMANMOBILE/RecyclerviewStaggered/app/src/main/res/layout/list_item_v2.xml" value="0.209375" />
+        <entry key="..\:/VIDEO/PEMOGRAMANMOBILE/RecyclerviewStaggered/app/src/main/res/layout/post_item_container.xml" value="0.3723958333333333" />
+        <entry key="..\:/VIDEO/PEMOGRAMANMOBILE/RecyclerviewStaggered/app/src/main/res/layout/selected_item_background.xml" value="0.38645833333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
